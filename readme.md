@@ -1,0 +1,1 @@
+### This sample store is taken from internet to practice data science project
